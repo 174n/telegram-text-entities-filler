@@ -1,6 +1,6 @@
 {
   "name": "@rundik/telegram-text-entities-filler",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "description": "Simply fills text with entities markup",
   "main": "src/index.js",
   "scripts": {
