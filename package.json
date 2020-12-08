@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/deptyped/telegram-text-entities-filler.git"
+    "url": "git+https://github.com/Rundik/telegram-text-entities-filler.git"
   },
   "keywords": [
     "telegram",
@@ -19,9 +19,9 @@
   "author": "deptyped <deptyped@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/deptyped/telegram-text-entities-filler/issues"
+    "url": "https://github.com/Rundik/telegram-text-entities-filler/issues"
   },
-  "homepage": "https://github.com/deptyped/telegram-text-entities-filler#readme",
+  "homepage": "https://github.com/Rundik/telegram-text-entities-filler#readme",
   "devDependencies": {
     "jest": "^25.4.0",
     "prettier": "^1.19.1"
